@@ -16,7 +16,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * The purpose is to show how to write a basic Selenium test case
  * Adding in the setup the setting of the property "webdriver.chrome.driver" pointing to the absolute folder on my computer of the Chrome Web Driver.
  * So this has to be changed accordingly
- * update code
  */
 public class LoginBasicTest {
 	//IMPORTANT: Please download a Chrome driver and set this variable to the full path to the file
