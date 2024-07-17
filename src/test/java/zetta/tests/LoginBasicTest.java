@@ -19,7 +19,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class LoginBasicTest {
 	//IMPORTANT: Please download a Chrome driver and set this variable to the full path to the file
-	private final static String CHROME_DRIVER_FULL_PATH = "D:\\Cours\\Zeta\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";
+	private final static String CHROME_DRIVER_FULL_PATH = "/Users/yesserabbes/Downloads/chromedriver-mac-arm64/chromedriver";
 	private final static String GECKO_DRIVER_FULL_PATH = "D:\\Cours\\Zeta\\geckodriver-v0.34.0-win64\\geckodriver.exe";
 	private WebDriver driver;
 
